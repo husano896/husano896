@@ -15,7 +15,7 @@ I'm currently a **Frontend Developer**, and a **Game Developing Hobbyist**.
 [Personal Website](https://husano896.github.io/)
 
 -----------
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=husano896&show_icons=true&theme=algolia&locale=en&&hide=html))
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=husano896&show_icons=true&theme=algolia&locale=en&&hide=html)
 
 <!--
 **husano896/husano896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
